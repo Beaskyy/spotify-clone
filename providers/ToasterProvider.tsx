@@ -1,6 +1,5 @@
 "use client";
 
-// @ts-ignore
 import { color } from "framer-motion";
 import { Toaster } from "react-hot-toast";
 
